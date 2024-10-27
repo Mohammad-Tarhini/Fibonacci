@@ -8,7 +8,7 @@ if n==1:
 elif n>1:
     print(0)
     print(1)
-    k=1
+    k=2
     while k<n:
         t=i+j
         i=j
